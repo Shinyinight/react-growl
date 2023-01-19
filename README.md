@@ -78,13 +78,3 @@ module.exports = MyApp;
 
 Copyright (c) 2015 Moosylvania Marketing (hosting@moosylvania.com)
 
-### Maintainer
-
-Mitch Viner (mitch.viner@moosylvania.com)
-
-http://github.com/Mviner04
-
-### License
-
-Licensed under the MIT License.
-
